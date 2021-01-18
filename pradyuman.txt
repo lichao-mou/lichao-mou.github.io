@@ -1,8 +1,8 @@
-<span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> cd Lichao_Mou/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> cd lichao_mou/<!-- kjsdfhkjdhsfkjdshfkj -->about_me
 <span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
 <span id="k">Hello!</span> <!-- sjkfhskjf -->
 
-
+Lichao Mou<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Guest professor at the Munich AI Future Lab AI4EO, TUM</p><p>Head of the Visual Learning and Reasoning team, Department: EO Data Science, DLR-IMF</p>
 
 <p>Cheers!</p>
 <span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> exit
