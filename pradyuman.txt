@@ -6,10 +6,8 @@ Lichao Mou
 Guest professor at the <a href="https://ai4eo.de/">Munich AI Future Lab AI4EO</a>, TUM
 Head of the Visual Learning and Reasoning team, Department: EO Data Science, DLR-IMF
 </p>
-
 <p>
 I am interested in algorithms for Earth observation data analysis and visual learning and reasoning tasks. My work explores topics in remote sensing, computer vision, and machine/deep learning.
 </p>
-
 <p>Cheers!</p>
 
