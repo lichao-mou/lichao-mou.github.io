@@ -1,8 +1,8 @@
-<span id="a">usr@lichao-mou@github.io</span>:<span id="b">~</span><span id="c">$</span> cd Lichao_Mou/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">usr@lichao-mou@github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->me.txt<br/><br/>
+<span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> cd Lichao_Mou/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/><br/>
 <span id="k">Hello!</span> <!-- sjkfhskjf -->
 
 
 
 <p>Cheers!</p>
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">usr@lichao-mou.github.io</span>:<span id="b">~</span><span id="c">$</span> exit
