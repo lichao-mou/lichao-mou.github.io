@@ -1,7 +1,10 @@
 <span id="k">Hello!</span>
 
 <p>Lichao Mou</p>
-<p>Guest professor at the <a href="https://ai4eo.de/">Munich AI Future Lab AI4EO</a>, TUM\\
+<p>
+Lichao Mou
+
+Guest professor at the <a href="https://ai4eo.de/">Munich AI Future Lab AI4EO</a>, TUM
 Head of the Visual Learning and Reasoning team, Department: EO Data Science, DLR-IMF
 </p>
 <p>Head of the Visual Learning and Reasoning team, Department: EO Data Science, DLR-IMF</p>
