@@ -1,6 +1,6 @@
 # Site settings
-title: Roland Kwitt
-description: <p><b>Full Professor</b><br>Department of Computer Science<br>University of Salzburg</p>
-email: roland.kwitt@gmail.com
+title: Lichao Mou
+description: <p>Munich AI Future Lab AI4EO<br>Technical University of Munich</p><br><p>Remote Sensing Technology Institute (IMF)<br>German Aerospace Center (DLR)</p>
+email: lichao.mou AT dlr.de
 markdown: kramdown
 theme: jekyll-theme-minimal
