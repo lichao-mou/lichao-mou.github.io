@@ -19,21 +19,14 @@ Dynamic event recognition in UAV videos.
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
 # #Test1
-<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
-<figure class="cd-image-container">
-	<img src="img/img-original.jpg" alt="Original Image">
-	<span class="cd-image-label" data-type="original">Original</span>
-	
-	<div class="cd-resize-img"> <!-- the resizable image on top -->
-		<img src="img/img-modified.jpg" alt="Modified Image">
-		<span class="cd-image-label" data-type="modified">Modified</span>
-	</div>
-	
-	<span class="cd-handle"></span>
-</figure> <!-- cd-image-container -->
-<script src="js/jquery-2.1.1.js"></script>
-<script src="js/jquery.mobile.custom.min.js"></script> <!-- Resource jQuery -->
-<script src="js/main.js"></script> <!-- Resource jQuery -->
+<link rel="stylesheet" href="dics.css">
+<script src="dics.js"></script>
+<div class="b-dics">
+    <img src="01.jpg">
+    <img src="02.jpg" alt="Japan Yellow">
+    <img src="03.jpg" alt="Japan Orange">
+    <img src="04.jpg" alt="Japan Black & White">
+</div>
 
 # #Semantic segmentation of aerial imagery
 
