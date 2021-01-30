@@ -1,0 +1,18 @@
+title: 'Lichao Mou'
+description: "Personal Website"
+baseurl: "/"
+url: "https://lichao-mou.github.io"
+
+header_pages:
+  - index.md
+  - publication.md
+  - demo.md
+  - contact.md
+
+style: dark
+
+# footer: 
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
