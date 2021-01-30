@@ -15,12 +15,12 @@ permalink: /
 Lichao Mou, Dr.-Ing.
 Head of Team <font color="cyan">Visual Learning and Reasoning</font> at <a href="http://www.dlr.de/EN" target="_blank" style="color:cyan;text-decoration:none;">DLR</a>-<a href="https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/" target="_blank" style="color:cyan;text-decoration:none;">IMF</a>
 Guest professor at the <a href="https://ai4eo.de/" target="_blank" style="color:cyan;text-decoration:none;">Munich AI Future Lab AI4EO</a>, <a href="https://www.tum.de/en/" target="_blank" style="color:cyan;text-decoration:none;">TUM</a>
-<p><a href="https://scholar.google.com/citations?user=7k8GAaEAAAAJ" target="_blank" style="color:cyan;text-decoration:none;" >Google scholar</a> | <a href="https://dblp.org/pid/167/0614.html" target="_blank" style="color:cyan;text-decoration:none;" >DBLP</a></p>
+<p><a href="https://scholar.google.com/citations?user=7k8GAaEAAAAJ" target="_blank" style="color:cyan;text-decoration:none;" >Google scholar</a> - <a href="https://dblp.org/pid/167/0614.html" target="_blank" style="color:cyan;text-decoration:none;" >DBLP</a></p>
 
 
 # #News
 
-<li>Suffering from labeling every pixel? Check our work on semantic segmentation with sparse annotations. <a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >arXiv</a> | <a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >code</a> | <a href="https://drive.google.com/file/d/1E4bhx3H6P8jTdOQG6hS14G_gBBhvwzWU/view?usp=sharing" target="_blank" style="color:cyan;text-decoration:none;" >data</a></li>
+<li>Suffering from labeling every pixel? Check our work on semantic segmentation with sparse annotations. <a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >arXiv</a>|<a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >code</a>|<a href="https://drive.google.com/file/d/1E4bhx3H6P8jTdOQG6hS14G_gBBhvwzWU/view?usp=sharing" target="_blank" style="color:cyan;text-decoration:none;" >data</a></li>
 
 # #Research
 I am interested in algorithms for Earth observation data analysis and visual learning and reasoning tasks. My work explores topics in remote sensing, computer vision, and machine/deep learning.
