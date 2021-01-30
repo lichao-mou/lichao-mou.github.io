@@ -15,8 +15,7 @@ permalink: /
 Lichao Mou, Dr.-Ing.
 Head of Team <font color="cyan">Visual Learning and Reasoning</font> at <a href="http://www.dlr.de/EN" target="_blank" style="color:cyan;text-decoration:none;">DLR</a>-<a href="https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/" target="_blank" style="color:cyan;text-decoration:none;">IMF</a>
 Guest professor at the <a href="https://ai4eo.de/" target="_blank" style="color:cyan;text-decoration:none;">Munich AI Future Lab AI4EO</a>, <a href="https://www.tum.de/en/" target="_blank" style="color:cyan;text-decoration:none;">TUM</a>
-
-<a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >GoogleScholar</a>|<a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >DBLP</a>
+<p><a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >Google scholar</a>|<a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >DBLP</a>
 
 # #News
 
