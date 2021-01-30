@@ -22,7 +22,8 @@ Guest professor at the <a href="https://ai4eo.de/" target="_blank" style="color:
 
 <li>Suffering from labeling every pixel? Check our work on semantic segmentation of remote sensing images with sparse annotations. <a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >arXiv</a>|<a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >code</a>|<a href="https://drive.google.com/file/d/1E4bhx3H6P8jTdOQG6hS14G_gBBhvwzWU/view?usp=sharing" target="_blank" style="color:cyan;text-decoration:none;" >data</a></li>
 <li>Editorial board member of Frontiers in Remote Sensing.</li>
-
+<li>PC of IJCAI 2021.</li>
+<li>Sound meets remote sensing?! Check our work to see how aerial scene recognition benefits from soundscape. <a href="https://arxiv.org/pdf/2005.08449.pdf" target="_blank" style="color:cyan;text-decoration:none;" >arXiv</a>|<a href="https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition" target="_blank" style="color:cyan;text-decoration:none;" >code</a>|<a href="https://zenodo.org/record/3828124#.XtlxHjozbD4" target="_blank" style="color:cyan;text-decoration:none;" >ADVANCE dataset</a></li>
 
 # #Research
 I am interested in algorithms for Earth observation data analysis and visual learning and reasoning tasks. My work explores topics in remote sensing, computer vision, and machine/deep learning.
