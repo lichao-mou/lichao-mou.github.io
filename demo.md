@@ -26,15 +26,12 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 	function domReady() {
 		new Dics({
 			container: document.querySelectorAll('.b-dics')[0],
-			textPosition: 'top'
 		});
 	}
 </script>
 <div class="b-dics">
-    <img src="01.jpg">
-    <img src="02.jpg" alt="Japan Yellow">
-    <img src="03.jpg" alt="Japan Orange">
-    <img src="04.jpg" alt="Japan Black & White">
+    <img src="imgs/semantic_seg_1.png">
+    <img src="imgs/semantic_seg_2.png">
 </div>
 
 
