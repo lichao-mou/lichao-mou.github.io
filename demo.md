@@ -18,7 +18,7 @@ Dynamic event recognition in UAV videos.
 
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
-# #Test6
+# #Test7
 <link rel="stylesheet" href="dics.original.css">
 <script src="dics.original.js"></script>
 <script>
@@ -26,19 +26,12 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 	function domReady() {
 		new Dics({
 			container: document.querySelectorAll('.b-dics')[0],
-			linesOrientation: 'vertical',
-			textPosition: 'left',
-			arrayBackgroundColorText: ['#000000', '#FFFFFF'],
-			arrayColorText: ['#FFFFFF', '#000000'],
-			linesColor: 'rgb(0,0,0)'
 		});
 	}
 </script>
-<div style="padding: 50px 0;">
-	<div class="b-dics" style="width: 750px">
-		<img src="img/map.jpg" alt="Map">
-		<img src="img/map-satellite.jpg" alt="Satellite map">
-	</div>
+<div class="b-dics" style="width: 750px">
+	<img src="imgs/semantic_seg_1.png" />
+	<img src="imgs/semantic_seg_2.png" />
 </div>
 
 # #Semantic segmentation of aerial imagery
