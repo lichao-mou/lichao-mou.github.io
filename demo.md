@@ -19,17 +19,15 @@ Dynamic event recognition in UAV videos.
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
 # #Test3
-<link rel="stylesheet" href="dics.original.css">
-<script src="dics.original.js"></script>
+<link rel="stylesheet" href="dics.min.css">
+<script src="dics.min.js"></script>
 <div class="b-dics">
     <img src="01.jpg">
     <img src="02.jpg" alt="Japan Yellow">
     <img src="03.jpg" alt="Japan Orange">
     <img src="04.jpg" alt="Japan Black & White">
 </div>
-new Dics({
-    container: document.querySelector('.b-dics')
-});
+
 
 # #Semantic segmentation of aerial imagery
 
