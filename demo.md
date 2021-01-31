@@ -21,6 +21,15 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 # #Test3
 <link rel="stylesheet" href="dics.min.css">
 <script src="dics.min.js"></script>
+<script>
+	document.addEventListener('DOMContentLoaded', domReady);
+	function domReady() {
+		new Dics({
+			container: document.querySelectorAll('.b-dics')[0],
+			textPosition: 'top'
+		});
+	}
+</script>
 <div class="b-dics">
     <img src="01.jpg">
     <img src="02.jpg" alt="Japan Yellow">
