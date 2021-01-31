@@ -18,21 +18,25 @@ Dynamic event recognition in UAV videos.
 
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
-# #Test3
-<link rel="stylesheet" href="main.css"/>
-<link rel="stylesheet" href="custom-range-input.css"/>
-<link rel="stylesheet" href="styles_main.css"/>
+# #Test1
+<script
+  type="module"
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
+></script>
+<script
+  nomodule=""
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@3/dist/collection/styles/initial.css"
+/>
 
-<div class="slider-before-after">
-    <div class="slider-before-image">
-        <img src="imgs/semantic_seg_1.png" width="100%">
-    </div>
-    <div class="slider-after-image">
-        <img src="imgs/semantic_seg_2.png" width="100%">
-    </div>
-    <input type="range" class="slider-track"/>
-</div>
-<script src="slider-before-after.js"></script>
+<img-comparison-slider>
+  <img slot="before" src="imgs/semantic_seg_1.png" />
+  <img slot="after" src="imgs/semantic_seg_2.png" />
+</img-comparison-slider>
+
 
 # #Semantic segmentation of aerial imagery
 
