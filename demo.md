@@ -18,15 +18,17 @@ Dynamic event recognition in UAV videos.
 
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
-# #Test2
+# #Test3
 <link rel="stylesheet" href="main.css"/>
 <link rel="stylesheet" href="custom-range-input.css"/>
+<link rel="stylesheet" href="styles_main.css"/>
+
 <div class="slider-before-after">
     <div class="slider-before-image">
-        <img src="imgs/semantic_seg_1.png" alt=""/>
+        <img src="imgs/semantic_seg_1.png" width="100%">
     </div>
     <div class="slider-after-image">
-        <img src="imgs/semantic_seg_2.png" alt=""/>
+        <img src="imgs/semantic_seg_2.png" width="100%">
     </div>
     <input type="range" class="slider-track"/>
 </div>
@@ -38,8 +40,8 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 
 <div class="image-spliter">
     <div class="mover"></div>
-    <img class="img-left" src="imgs/semantic_seg_1.png" width="100%">
-    <img class="img-right" src="imgs/semantic_seg_2.png" width="100%">
+    <img class="img-left" src="imgs/semantic_seg_1.png" width="100%"/>
+    <img class="img-right" src="imgs/semantic_seg_2.png" width="100%"/>
 </div>
 <script src="image-comparison-slider.min.js"></script>
 
