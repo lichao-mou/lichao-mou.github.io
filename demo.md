@@ -26,16 +26,18 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 	function domReady() {
 		new Dics({
 			container: document.querySelectorAll('.b-dics')[0],
-			hideTexts: true,
-			textPosition: 'center'
+			linesOrientation: 'vertical',
+			textPosition: 'left',
+			arrayBackgroundColorText: ['#000000', '#FFFFFF'],
+			arrayColorText: ['#FFFFFF', '#000000'],
+			linesColor: 'rgb(0,0,0)'
 		});
 	}
 </script>
-
 <div style="padding: 50px 0;">
 	<div class="b-dics" style="width: 750px">
-		<img src="img/god-p4k.jpg" alt="4k">
-		<img src="img/god-performance.jpg" alt="Performance mode">
+		<img src="img/map.jpg" alt="Map">
+		<img src="img/map-satellite.jpg" alt="Satellite map">
 	</div>
 </div>
 
