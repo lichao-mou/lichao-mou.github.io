@@ -29,11 +29,13 @@ Demo in a busy parking lot, Woburn, Massachusetts, US.
 		});
 	}
 </script>
-<div class="b-dics">
-    <img src="imgs/semantic_seg_1.png">
-    <img src="imgs/semantic_seg_2.png">
-</div>
 
+<div style="padding: 50px 0;">
+	<div class="b-dics" style="width: 750px">
+		<img src="imgs/semantic_seg_1.png">
+		<img src="imgs/semantic_seg_2.png">
+	</div>
+</div>
 
 # #Semantic segmentation of aerial imagery
 
