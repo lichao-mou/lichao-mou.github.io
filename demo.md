@@ -38,7 +38,6 @@ permalink: /demo
 <img src="imgs/multitemporal.png" width="100%">
 
 
-# #Ship detection in satellite imagery
 <div style="margin-bottom: 6pt;"><li>Ship detection in satellite imagery. [San Francisco Bay, US.]</li></div>
 <script
   type="module"
@@ -59,15 +58,21 @@ permalink: /demo
 </img-comparison-slider>
 
 
-# #Height estimation from a single satellite imagery
+<div style="margin-bottom: 6pt;"><li>Height estimation from a single satellite imagery. [Berlin, Germany.]</li></div>
+<script
+  type="module"
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
+></script>
+<script
+  nomodule=""
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@3/dist/collection/styles/initial.css"
+/>
 
-<link rel="stylesheet" type="text/css" href="image-comparison-slider.css">
-
-<div class="image-spliter">
-    <div class="mover"></div>
-    <img class="img-left" src="imgs/im2height_1.png" width="100%">
-    <img class="img-right" src="imgs/im2height_2.png" width="100%">
-</div>
-<script src="image-comparison-slider.min.js"></script>
-
-An example in Berlin, Germany.
+<img-comparison-slider>
+	<img slot="before" src="imgs/im2height_1.png" />
+	<img slot="after" src="imgs/im2height_2.png" />
+</img-comparison-slider>
