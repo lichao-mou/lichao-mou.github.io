@@ -6,7 +6,7 @@ permalink: /demo
 
 # #Some stuff my awesome colleagues and I did.
 
-<li>What's happening down there? Dynamic event recognition in UAV videos.</li>
+<div style="margin-bottom: 6pt;"><li>What's happening down there? Dynamic event recognition in UAV videos.</li></div>
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
