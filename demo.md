@@ -29,8 +29,8 @@ permalink: /demo
 />
 
 <img-comparison-slider>
-	<img slot="before" src="imgs/semantic_seg_1.png" />
-	<img slot="after" src="imgs/semantic_seg_2.png" />
+	<img slot="before" src="imgs/semantic_seg_1.png" width="100%"/>
+	<img slot="after" src="imgs/semantic_seg_2.png" width="100%"/>
 </img-comparison-slider>
 
 
