@@ -10,7 +10,7 @@ permalink: /demo
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
-<div style="margin-bottom: 6pt;"><li>Vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US.]</li></div>
+<div style="margin-bottom: 6pt; margin-top: 6pt;"><li>Vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US.]</li></div>
 ​<video src="videos/vehicle_det_track.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" width="100%"></video>
 
 
@@ -39,17 +39,25 @@ permalink: /demo
 
 
 # #Ship detection in satellite imagery
+<div style="margin-bottom: 6pt;"><li>Ship detection in satellite imagery. [San Francisco Bay, US.]</li></div>
+<script
+  type="module"
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
+></script>
+<script
+  nomodule=""
+  src="https://unpkg.com/img-comparison-slider@3/dist/component/component.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@3/dist/collection/styles/initial.css"
+/>
 
-<link rel="stylesheet" type="text/css" href="image-comparison-slider.css">
+<img-comparison-slider>
+	<img slot="before" src="imgs/ship_det_1.png" />
+	<img slot="after" src="imgs/ship_det_2.png" />
+</img-comparison-slider>
 
-<div class="image-spliter">
-    <div class="mover"></div>
-    <img class="img-left" src="imgs/ship_det_1.png" width="100%">
-    <img class="img-right" src="imgs/ship_det_2.png" width="100%">
-</div>
-<script src="image-comparison-slider.min.js"></script>
-
-An example of the San Francisco Bay, US.
 
 # #Height estimation from a single satellite imagery
 
