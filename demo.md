@@ -6,12 +6,13 @@ permalink: /demo
 
 # Some stuff my awesome colleagues and I did.
 
-<video src="videos/era_demo.mp4" controls width="100%"></video>
 What's happening down there? Dynamic event recognition in UAV videos.
+<video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
-​<video src="videos/vehicle_det_track.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" width="100%"></video>
 Vehicle detection and tracking in UAV videos. (@a busy parking lot, Woburn, Massachusetts, US)
+​<video src="videos/vehicle_det_track.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" width="100%"></video>
+
 
 # #Test2
 <script
