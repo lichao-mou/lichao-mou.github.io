@@ -18,7 +18,7 @@ Dynamic event recognition in UAV videos.
 
 Demo in a busy parking lot, Woburn, Massachusetts, US.
 
-# #Test2
+# #Test3
 <script
   type="module"
   src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
