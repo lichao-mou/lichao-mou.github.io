@@ -4,13 +4,13 @@ layout: page
 permalink: /demo
 ---
 
-# Some stuff my awesome colleagues and I did
+# Some stuff my awesome colleagues and I did.
 
 # #What's happening down there?
+Dynamic event recognition in UAV videos.
 
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
-Dynamic event recognition in UAV videos.
 
 # #Vehicle detection and tracking in UAV videos
 
