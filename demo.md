@@ -77,15 +77,3 @@ permalink: /demo
 	<img slot="before" src="imgs/im2height_1.png" />
 	<img slot="after" src="imgs/im2height_2.png" />
 </img-comparison-slider>
-
-
-<link rel="stylesheet" type="text/css" href="image-comparison-slider.css">
-
-<div class="image-spliter">
-    <div class="mover"></div>
-    <img class="img-left" src="imgs/im2height_1.png" width="100%">
-    <img class="img-right" src="imgs/im2height_2.png" width="100%">
-</div>
-<script src="image-comparison-slider.min.js"></script>
-
-An example in Berlin, Germany.
