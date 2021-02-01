@@ -34,10 +34,6 @@ permalink: /demo
 </img-comparison-slider>
 
 
-<div style="margin-bottom: 6pt; margin-top: 12pt;"><li>Multi-temporal satellite image sequence analysis. [Urban expansion in Yanqing, Beijing, China.]</li></div>
-<img src="imgs/multitemporal.png" width="100%">
-
-
 <div style="margin-bottom: 6pt;"><li>Ship detection in satellite imagery. [San Francisco Bay, US.]</li></div>
 <script
   type="module"
@@ -77,3 +73,7 @@ permalink: /demo
 	<img slot="before" src="imgs/im2height_1.png" />
 	<img slot="after" src="imgs/im2height_2.png" />
 </img-comparison-slider>
+
+
+<div style="margin-bottom: 6pt; margin-top: 12pt;"><li>Multi-temporal satellite image sequence analysis. [Urban expansion in Yanqing, Beijing, China.]</li></div>
+<img src="imgs/multitemporal.png" width="100%">
