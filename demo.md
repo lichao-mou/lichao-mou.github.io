@@ -10,11 +10,11 @@ permalink: /demo
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
-<div style="margin-bottom: 6pt;"><li>Vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US]</li></div>
+<div style="margin-bottom: 6pt;"><li>Vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US.]</li></div>
 ​<video src="videos/vehicle_det_track.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" width="100%"></video>
 
 
-<div style="margin-bottom: 6pt;"><li>Semantic segmentation of aerial imagery. [An example of the city of Potsdam, Germany]</li></div>
+<div style="margin-bottom: 6pt;"><li>Semantic segmentation of aerial imagery. [Potsdam, Germany.]</li></div>
 <script
   type="module"
   src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
@@ -33,24 +33,10 @@ permalink: /demo
 	<img slot="after" src="imgs/semantic_seg_2.png" />
 </img-comparison-slider>
 
-# #Semantic segmentation of aerial imagery
 
-<link rel="stylesheet" type="text/css" href="image-comparison-slider.css">
-
-<div class="image-spliter">
-    <div class="mover"></div>
-    <img class="img-left" src="imgs/semantic_seg_1.png" width="100%"/>
-    <img class="img-right" src="imgs/semantic_seg_2.png" width="100%"/>
-</div>
-<script src="image-comparison-slider.min.js"></script>
-
-An example of the city of Potsdam, Germany.
-
-# #Multi-temporal satellite image sequence analysis
-
+<div style="margin-bottom: 6pt;"><li>Multi-temporal satellite image sequence analysis. [Urban expansion in Yanqing, Beijing, China.]</li></div>
 <img src="imgs/multitemporal.png" width="100%">
 
-An example of urban expansion in Yanqing, Beijing, China.
 
 # #Ship detection in satellite imagery
 
