@@ -4,7 +4,7 @@ layout: page
 permalink: /demo
 ---
 
-# Some stuff my awesome colleagues and I did.
+# #Some stuff my awesome colleagues and I did.
 
 <br/>
 
