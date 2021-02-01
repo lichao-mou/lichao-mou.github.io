@@ -34,7 +34,7 @@ permalink: /demo
 </img-comparison-slider>
 
 
-<div style="margin-bottom: 6pt;" "margin-top: 12pt;"><li>Multi-temporal satellite image sequence analysis. [Urban expansion in Yanqing, Beijing, China.]</li></div>
+<div style="margin-bottom: 6pt; margin-top: 12pt;"><li>Multi-temporal satellite image sequence analysis. [Urban expansion in Yanqing, Beijing, China.]</li></div>
 <img src="imgs/multitemporal.png" width="100%">
 
 
