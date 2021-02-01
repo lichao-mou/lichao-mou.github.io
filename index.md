@@ -34,7 +34,7 @@ I am interested in algorithms for Earth observation data analysis and visual lea
 <li>Zhenghang Yuan</li>
 
 # #Demo
-[Look what we're doing :)](demo)
+<a href="demo.md" target="_blank" style="color:cyan;text-decoration:none;">Look what we're doing :)</a>
 
 # #Publication
 <p><a href="https://scholar.google.com/citations?user=7k8GAaEAAAAJ" target="_blank" style="color:cyan;text-decoration:none;" >Google scholar</a> - <a href="https://dblp.org/pid/167/0614.html" target="_blank" style="color:cyan;text-decoration:none;" >DBLP</a></p>
