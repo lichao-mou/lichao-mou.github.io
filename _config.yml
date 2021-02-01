@@ -5,7 +5,6 @@ url: "https://lichao-mou.github.io"
 
 header_pages:
   - index.md
-  - publication.md
   - demo.md
   - contact.md
 
