@@ -6,7 +6,7 @@ permalink: /demo
 
 # #Some stuff my awesome colleagues and I did.
 
-<div style="margin-bottom: 6pt;"><li>What's happening down there? Dynamic event recognition in UAV videos.</li></div>
+<div style="margin-bottom: 6pt; margin-top: 12pt"><li>What's happening down there? Dynamic event recognition in UAV videos.</li></div>
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
@@ -58,7 +58,7 @@ permalink: /demo
 </img-comparison-slider>
 
 
-<div style="margin-bottom: 6pt;"><li>Height estimation from a single satellite imagery. [Berlin, Germany.]</li></div>
+<div style="margin-bottom: 6pt; margin-top: 12pt"><li>Height estimation from a single satellite imagery. [Berlin, Germany.]</li></div>
 <script
   type="module"
   src="https://unpkg.com/img-comparison-slider@3/dist/component/component.esm.js"
