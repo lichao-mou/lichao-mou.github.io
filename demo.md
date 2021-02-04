@@ -10,7 +10,7 @@ permalink: /demo
 <video src="videos/era_demo.mp4" controls width="100%"></video>
 
 
-<div style="margin-bottom: 6pt; margin-top: 9pt;"><li>Vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US]</li></div>
+<div style="margin-bottom: 6pt; margin-top: 9pt;"><li>Oriented vehicle detection and tracking in UAV videos. [A busy parking lot, Woburn, Massachusetts, US]</li></div>
 ​<video src="videos/vehicle_det_track.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" width="100%"></video>
 
 
