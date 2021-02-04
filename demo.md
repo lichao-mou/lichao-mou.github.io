@@ -58,6 +58,10 @@ permalink: /demo
 </img-comparison-slider>
 
 
+<div style="margin-bottom: 6pt; margin-top: 12pt"><li>3D building instance segmentation from a single aerial image. [Vaihingen, Germany]</li></div>
+<img src="imgs/3d_building.gif" width="100%">
+
+
 <div style="margin-bottom: 6pt; margin-top: 12pt"><li>Height estimation from a single satellite imagery. [Berlin, Germany]</li></div>
 <script
   type="module"
@@ -77,6 +81,3 @@ permalink: /demo
 	<img slot="after" src="imgs/im2height_2.png" width="100%">
 </img-comparison-slider>
 
-
-<div style="margin-bottom: 6pt; margin-top: 12pt"><li>3D building instance segmentation from a single aerial image.</li></div>
-<img src="imgs/3d_building.gif" width="100%">
