@@ -18,7 +18,7 @@ Guest professor at the <a href="https://ai4eo.de/" target="_blank" style="color:
 
 # #News
 
-<li>We are organizing a special session on <a href="https://2021.ieeeicip.org/SpecialSessions.asp" target="_blank" style="color:cyan;text-decoration:none;" >“Computer Vision and Machine Learning for Remote Sensing Data Analysis”</a> at IEEE ICIP 2021.</li>
+<li>We are organizing a special session on <a href="https://2021.ieeeicip.org/SpecialSessions.asp" target="_blank" style="color:cyan;text-decoration:none;" >Computer Vision and Machine Learning for Remote Sensing Data Analysis</a> at IEEE ICIP 2021.</li>
 <li>Suffering from labeling every pixel? Check our work on semantic segmentation of remote sensing images with sparse annotations. <a href="https://arxiv.org/pdf/2101.03492.pdf" target="_blank" style="color:cyan;text-decoration:none;" >arXiv</a>|<a href="https://github.com/Hua-YS/Semantic-Segmentation-with-Sparse-Labels" target="_blank" style="color:cyan;text-decoration:none;" >code</a>|<a href="https://drive.google.com/file/d/1E4bhx3H6P8jTdOQG6hS14G_gBBhvwzWU/view?usp=sharing" target="_blank" style="color:cyan;text-decoration:none;" >data</a></li>
 [comment]:<>(<li>Editorial board member of Frontiers in Remote Sensing.</li>)
 <li>PC of IJCAI 2021.</li>
