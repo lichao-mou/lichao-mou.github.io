@@ -10,11 +10,13 @@ permalink: /
 
 # #Me
 
-<img src="imgs/photo.png" width="10%">
+<img src="imgs/photo.png" width="100%">
 
 Lichao Mou
 Head of Team <font color="cyan">Visual Learning and Reasoning</font> at <a href="http://www.dlr.de/EN" target="_blank" style="color:cyan;text-decoration:none;">DLR</a>-<a href="https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5279/8913_read-16239/" target="_blank" style="color:cyan;text-decoration:none;">IMF</a>
 Guest professor at the <a href="https://ai4eo.de/" target="_blank" style="color:cyan;text-decoration:none;">Munich AI Future Lab AI4EO</a>, <a href="https://www.tum.de/en/" target="_blank" style="color:cyan;text-decoration:none;">TUM</a>
+
+<img src="imgs/planets.gif" width="10%">
 
 # #News
 
