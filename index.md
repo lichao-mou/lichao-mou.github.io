@@ -42,5 +42,3 @@ I am interested in algorithms for Earth observation data analysis and visual lea
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5tyykwhq43w&amp;m=1c&amp;c=007eff&amp;cr1=00fff6&amp;f=calibri&amp;l=1&amp;s=180&amp;cw=ffffff&amp;cb=000000" async="async"></script>
 
-
-<img src="imgs/planets.gif" width="40%">
