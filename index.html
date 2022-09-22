@@ -1,0 +1,475 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>L.C.M.</title>
+<meta name="description" content="Lichao Mou">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Lichao Mou">
+<meta name="twitter:description" content="Lichao Mou">
+<meta name="twitter:site" content="">
+<meta name="twitter:creator" content="">
+
+<meta name="twitter:card" content="">
+<meta name="twitter:image" content="">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="">
+<meta property="og:description" content="">
+<meta property="og:url" content="">
+<meta property="og:site_name" content="">
+
+<!-- Webmaster Tools verfication -->
+<meta name="google-site-verification" content="googleb0479c04a25255c3">
+
+
+
+<link rel="canonical" href="">
+<link href="" type="application/atom+xml" rel="alternate" title="">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="main.css">
+<!-- Webfonts -->
+<script src="//use.edgefonts.net/source-sans-pro:n2,i2,n3,i3,n4,i4,n6,i6,n7,i7,n9,i9;source-code-pro:n4,n7;volkhov.js"></script>
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Modernizr -->
+<script src="modernizr-2.7.1.custom.min.js"></script>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="">
+
+</head>
+
+<body id="page">
+
+<div id="main" role="main">
+  <article class="entry">
+    <div class="entry-wrapper">
+      
+    </div><!-- /.entry-wrapper -->
+
+    <div class="entry-wrapper">
+      <div class="entry-contentProject">
+        <!--
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+-->
+
+<!-- ImageSlider -->
+<style>
+* {box-sizing: border-box;}
+.img-comp-container {
+  position: relative;
+  width : auto;
+  height: 600px;
+  margin:0 auto;
+}
+.img-comp-img {
+  position: absolute;
+  object-position: 0 0; 
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+.overlayr {
+	cursor: pointer;
+    position: absolute;
+    width: auto;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0, 191, 255, 0.5);
+    padding: 10px;
+    box-sizing: border-box;
+    color: #DDD;
+    text-align: right;
+	user-select: none;
+  -webkit-user-select: none;
+r}
+.overlayl {
+	cursor: pointer;
+    position: absolute;
+    width: auto;
+    bottom: 20px;
+    left: 20px;
+	right: auto;
+    background-color: rgba(0, 191, 255, 0.5);
+    padding: 10px;
+    box-sizing: border-box;
+    color: #DDD;
+    text-align: left;
+}
+.midasl  {
+	cursor: pointer;
+    position: absolute;
+    width: auto;
+    bottom: 20px;
+    left: 100px;
+	right: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    box-sizing: border-box;
+    color: #DDD;
+    text-align: left;
+}
+.midasr  {
+	cursor: pointer;
+    position: absolute;
+    width: auto;
+    bottom: 20px;
+	right: 100px;
+	left: auto;
+    background-color: rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    box-sizing: border-box;
+    color: #DDD;
+    text-align: right;
+	user-select: none;
+  -webkit-user-select: none;
+}
+.midasr:hover,
+.midasl:hover{
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.img-comp-img img {
+  	display: block;
+  	vertical-align: middle;
+	object-position: 0 0; 
+	width: auto;
+  	height: 100%;
+	object-fit: cover;
+}
+.img-comp-overlay img {
+  	display: block;
+  	vertical-align: middle;
+	object-position: 0 0; 
+	width: auto;
+  	height: 100%;
+	object-fit: cover;
+}
+.img-comp-slider {
+  position: absolute;
+  z-index: 9;
+  cursor: ew-resize;
+  /*set the appearance of the slider:*/
+  width: 40px;
+  height: 40px;
+  background-color:deepskyblue;
+  opacity: 0.7;
+  border-radius: 50%;
+}
+/* Next & previous buttons */
+.previous,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: 30px;
+  color: deepskyblue;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+/* On hover, add a black background color with a little bit see-through */
+.previous:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+</style>
+
+<script>
+function initComparisons() {
+  	var x, i;
+  	/* Find all elements with an "overlay" class: */
+  	c = document.getElementsByClassName("img-comp-container")[0];
+  	c.addEventListener('mouseenter', pause);
+  	c.addEventListener('mouseleave', resume);
+
+  	x = document.getElementsByClassName("img-comp-overlay");
+  	for (i = 0; i < x.length; i++) {
+    	/* Once for each "overlay" element:
+    	pass the "overlay" element as a parameter when executing the compareImages function: */
+    	compareImages(x[i]);
+	}
+  	function pause(){
+   		clearInterval(myTimer);
+	}
+  	function resume(){
+   		clearInterval(myTimer);
+		myTimer = setInterval(function(){plusSlides(slideIndex)}, 5000);
+	}
+  	function compareImages(img) {
+    	var slider, img, clicked = 0, w, h;
+    	/* Get the width and height of the img element */
+    	w = img.offsetWidth;
+    	h = img.offsetHeight;
+    	/* Set the width of the img element to 50%: */
+    	img.style.width = (w/2 ) + "px";
+    	/* Create slider: */
+    	slider = document.createElement("DIV");
+    	slider.setAttribute("class", "img-comp-slider");
+    	/* Insert slider */
+    	img.parentElement.insertBefore(slider, img);
+    	/* Position the slider in the middle: */
+    	slider.style.top = (h / 2) - (slider.offsetHeight / 2) + "px";
+    	slider.style.left = (w / 2) - (slider.offsetWidth / 2) + "px";
+    	/* Execute a function when the mouse button is pressed: */
+    	slider.addEventListener("mousedown", slideReady);
+    	/* And another function when the mouse button is released: */
+    	window.addEventListener("mouseup", slideFinish);
+    	/* Or touched (for touch screens: */
+    	slider.addEventListener("touchstart", slideReady);
+     	/* And released (for touch screens: */
+    	window.addEventListener("touchend", slideFinish);
+	
+    	function slideReady(e) {
+      		/* Prevent any other actions that may occur when moving over the image: */
+      		e.preventDefault();
+      		/* The slider is now clicked and ready to move: */
+      		clicked = 1;
+      		/* Execute a function when the slider is moved: */
+      		window.addEventListener("mousemove", slideMove);
+      		window.addEventListener("touchmove", slideMove);
+	  	}
+    	function slideFinish() {
+      		/* The slider is no longer clicked: */
+      		clicked = 0;
+    	}
+		
+    	function slideMove(e) {
+      		var pos;	  
+		
+      		/* If the slider is no longer clicked, exit this function: */
+      		if (clicked == 0) return false;
+      		/* Get the cursor's x position: */
+      		pos = getCursorPos(e)
+      		/* Prevent the slider from being positioned outside the image: */
+      		if (pos < 0) pos = 0;
+      		if (pos > w) pos = w;
+      		/* Execute a function that will resize the overlay image according to the cursor: */
+      		slide(pos);
+    	}
+		
+    	function getCursorPos(e) {
+      		var a, x = 0;
+      		e = e || window.event;
+      		/* Get the x positions of the image: */
+      		a = img.getBoundingClientRect();
+      		/* Calculate the cursor's x coordinate, relative to the image: */
+      		x = e.pageX - a.left;
+      		/* Consider any page scrolling: */
+      		x = x - window.pageXOffset;
+      		return x;
+    	}
+		
+    	function slide(x) {
+      		/* Resize the image: */
+      		img.style.width = x + "px";
+      		/* Position the slider: */
+      		slider.style.left = img.offsetWidth - (slider.offsetWidth / 2) + "px";
+    	}	 
+	}
+} 
+	
+function initSlideShow(n){
+	myTimer=setInterval(function(){plusSlides(1)},5000);
+}
+
+
+function plusSlides(n) {
+  	showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  	showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  	var i;
+  	var slides = document.getElementsByClassName("mySlides");
+  	var dots = document.getElementsByClassName("demo");
+  	var captionText = document.getElementById("caption");
+  	if (n > slides.length) {slideIndex = 1}
+  	if (n < 1) {slideIndex = slides.length}
+  	for (i = 0; i < slides.length; i++) {
+      	slides[i].style.display = "none";
+  	}
+  	for (i = 0; i < dots.length; i++) {
+		dots[i].className = dots[i].className.replace(" active", "");
+  	}
+  	slides[slideIndex-1].style.display = "block";
+  	dots[slideIndex-1].className += " active";
+  	captionText.innerHTML = dots[slideIndex-1].alt;
+}
+		
+function changeImg(n,target){
+	n.parentNode.childNodes[1].style.backgroundColor = "rgba(0, 0, 0, 0.4)";
+	n.parentNode.childNodes[3].style.backgroundColor = "rgba(0, 0, 0, 0.4)";
+	n.style.backgroundColor = "rgba(0, 191, 255, 0.5)";
+	var img = n.parentNode.getElementsByTagName('img')[0];
+	var name = img.src;
+	var sp = name.split("/");
+	var path = target.concat("/",sp[sp.length-1]);
+	img.src = path;
+}
+</script>
+
+<!--
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+######################################################################################################
+-->
+<p style="text-align:center;">Lichao Mou</p>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 18px; margin-top: 12px;">
+	International AI Future Lab on AI4EO, TUM<br />
+	Visual Learning and Reasoning team, Department: EO Data Science, DLR-IMF<br />
+	lichao.mou[at]dlr.de |
+	<a href="https://scholar.google.com/citations?user=7k8GAaEAAAAJ" target="_blank">Google scholar <i class="fa fa-external-link"></i></a>
+</div>
+<p style="text-align:center;">Interests</p>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 18px; margin-top: 12px;">
+	I am broadly interested in vision algorithms for Earth observation applications. My work explores topics in remote sensing, computer vision, and machine/deep learning.
+</div>
+<p style="text-align:center;">Research</p>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 5px; margin-top: 12px;">
+	-- Natural language x Earth observation --
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<img src="imgs/alternative.png" width="648" style="border: 3px solid black;">
+</div>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 5px; margin-top: 12px;">
+	-- UAV video understanding & satellite image time series analysis --
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<iframe width="320" height="214" src="https://www.youtube.com/embed/KrQv2jRZ8BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="320" height="214" src="https://www.youtube.com/embed/3jY0eW00gNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 5px; margin-top: 12px;">
+	-- 3D structure inference from monocular optical/SAR imagery --
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<img src="imgs/im2height.png" width="320" style="border: 3px solid black;">
+	<img src="imgs/3d_building.gif" width="320" style="border: 3px solid black;">
+</div>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 5px; margin-top: 12px;">
+	-- Recognition in remote sensing imagery (classification, detection ...) --
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<img src="imgs/land_cover.png" width="648" style="border: 3px solid black;">
+</div>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 5px; margin-top: 12px;">
+	-- AI4EO use cases (glacier calving front delineation, GNSS-R ...) --
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<video src="videos/deep-acm.mp4" autoplay class="embed-responsive rounded" loop muted playsinline poster="" height="224px" style="border: 3px solid black;"></video>
+</div>
+<p style="text-align:center;">Team</p>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 0px; margin-top: 12px;">
+	<a href="https://cloud-oak.com" target="_blank">Konrad Heidler <i class="fa fa-external-link"></i></a> <br> Zhenghang Yuan <br> <a href="https://jin-pu.github.io" target="_blank">Pu Jin <i class="fa fa-external-link"></i></a> <br> Daixin Zhao <br> Shanyu Zhou <br> Chandrabali Karmakar <br> Lixian Zhang (visiting, Tsinghua University)
+</div>
+<div class="pub-bibtex" style="text-align:center; margin-bottom: 18px; margin-top: 0px;">
+	---- Former ---- <br> Yuansheng Hua <br> Nikolaus Pinger <br> Runmin Dong (visiting, Tsinghua University) <br> Sining Chen
+</div>
+<div class="pub-bibtex" style="text-align:center;">
+	<img src="imgs/planets.gif" width="180" style="border: 0px solid black;">
+</div>
+
+
+      </div><!-- /.entry-contentProject -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<span>&copy; 2022 Lichao Mou</span>
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+<script type="text/javascript">
+  var BASE_URL = 'http://yaksoy.github.io';
+</script>
+
+<!-- Include Latex style math -->
+<!-- https://stackoverflow.com/questions/10987992/using-mathjax-with-jekyll -->
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://yaksoy.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://yaksoy.github.io/assets/js/scripts.min.js"></script>
+
+
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=11195487; 
+var sc_invisible=1; 
+var sc_security="112d9b46"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="shopify
+analytics" href="http://statcounter.com/shopify/"
+target="_blank"><img class="statcounter"
+src="//c.statcounter.com/11195487/0/112d9b46/1/"
+alt="shopify analytics"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
+</body>
+</html>
